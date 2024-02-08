@@ -1,6 +1,6 @@
 ---
 title: "Test"
-layout: categories
+layout: single
 permalink: /test/
 author_profile: true
 ---
