@@ -3,14 +3,12 @@ title: "Test"
 permalink: /test/
 author_profile: true
 ---
-<!DOCTYPE html>
 <html>
 <body>
 
 <h2>HTML Images</h2>
-<p>HTML images are defined with the img tag:</p>
+<p>This is a jpeg of a brick:</p>
 
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
-
+<img src="{{site.url}}/assets/images/brick.jpeg" style="display: block; margin: auto;" />
 </body>
 </html>
