@@ -9,6 +9,6 @@ author_profile: true
 <h2>HTML Images</h2>
 <p>This is a jpeg of a brick:</p>
 
-<img src="{{site.url}}/assets/images/brick.jpeg" style="display: block; margin: auto;" />
+<img src="assets/images/brick.jpeg" style="display: block; margin: auto;" />
 </body>
 </html>
